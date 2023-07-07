@@ -1,6 +1,6 @@
 # Welcome to Andy You's Website.
 
-# h1 Heading 8-)
+# h1 Heading 
 ## h2 Heading
 ### h3 Heading
 #### h4 Heading
@@ -8,7 +8,7 @@
 ###### h6 Heading
 
 
-## Horizontal Rules
+## Computer Science
 
 ___
 
@@ -20,12 +20,12 @@ ___
 
 ## Emphasis
 
-**This is bold text**
+**Hello World!**
 
-__This is bold text__
+__Hello World!__
 
-*This is italic text*
+*Hello World!*
 
-_This is italic text_
+_Hello World!_
 
-~~Strikethrough~~
+~~Hello World!~~
