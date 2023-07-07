@@ -2,20 +2,7 @@
 
 # Introduction
 
-
-
-
-
-
-
-
 ## Chapter 1
-
-
-
-
-
-
 
 ## Computer Science
 
@@ -24,8 +11,6 @@ ___
 ---
 
 ***
-
-
 
 ## Emphasis
 
